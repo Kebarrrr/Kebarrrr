@@ -41,12 +41,13 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 
 <div align="left">
 
-#### 🧩 Mobile Development
+#### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=android" height="40" alt="Android" />
 <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
-<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
 
-#### 💡 Frontend & UI
+#### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
 <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
@@ -59,12 +60,12 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 #### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 
-#### 🧰 Tools & Version Control
+#### 🧰 Tools & IDEs
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle" />
 
 </div>
-
 ###
 
 ### 🔥 GitHub Stats
