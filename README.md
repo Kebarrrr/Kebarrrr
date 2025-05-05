@@ -84,11 +84,11 @@ Always excited to learn, build, and collaborate on meaningful tech projects!<br>
 
 ### 🕹 Contribution Animation
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kebarrrr/Kebarrrr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kebarrrr/Kebarrrr/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Kebarrrr/Kebarrrr/output/pacman-contribution-graph.svg">
-</picture>
+</picture>-->
 
 <img src="https://raw.githubusercontent.com/Kebarrrr/Kebarrrr/output/snake.svg" alt="Snake animation" />
 
