@@ -95,11 +95,15 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 ### 🎧 Recently Played on Spotify
 
 <div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sbkdwmmxfpoo2yumz65gxx4wvy&unique={true|1|on|yes})
-  <!--<a href="https://spotify-github-profile.vercel.app/api/view?uid=31sbkdwmmxfpoo2yumz65gxx4wvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&type=recent">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sbkdwmmxfpoo2yumz65gxx4wvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&type=recent" alt="Spotify Recently Played" />
-  </a>-->
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sbkdwmmxfpoo2yumz65gxx4wvy&unique=true" alt="Recently Played" />
 </div>
+
+<!--
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31sbkdwmmxfpoo2yumz65gxx4wvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&type=recent">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sbkdwmmxfpoo2yumz65gxx4wvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&type=recent" alt="Spotify Recently Played" />
+</a>
+-->
+
 
 ###
 
