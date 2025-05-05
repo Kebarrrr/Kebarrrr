@@ -42,7 +42,7 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 <div align="left">
 
 #### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=android" height="40" alt="Android" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
@@ -61,7 +61,7 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 
 #### 🧰 Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle" />
 
