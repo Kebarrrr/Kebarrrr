@@ -107,6 +107,3 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kebarrrr/count.svg?" alt="Profile Counter" />
-</div>
