@@ -42,7 +42,6 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 <div align="left">
 
 #### 📱 Mobile Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
@@ -61,7 +60,7 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 
 #### 🧰 Tools & IDEs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle" />
 
@@ -93,11 +92,11 @@ I'm an Informatics student passionate about mobile and IoT development.<br><br>
 
 ###
 
-### 🎧 Now Playing on Spotify
+### 🎧 Recently Played on Spotify
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31sbkdwmmxfpoo2yumz65gxx4wvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sbkdwmmxfpoo2yumz65gxx4wvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31sbkdwmmxfpoo2yumz65gxx4wvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&type=recent">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sbkdwmmxfpoo2yumz65gxx4wvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&type=recent" alt="Spotify Recently Played" />
   </a>
 </div>
 
