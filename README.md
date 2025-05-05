@@ -30,7 +30,9 @@
 
 ### 👨‍💻 About Me
 
-I'm an Informatics student passionate about mobile and IoT development.<br><br>
+Hi! I'm an Informatics student passionate about Android development and IoT systems.
+Currently exploring Kotlin, Jetpack Compose, and building smart apps connected to real-time sensor data.
+Always excited to learn, build, and collaborate on meaningful tech projects!<br><br>
 - 🔭 I’m currently working on an IoT-based air quality monitoring app with Android visualization<br>
 - 📚 I’m actively learning Android with Kotlin, Jetpack Compose, and backend with Express.js<br>
 - ⚡ Fun fact: I love experimenting with smart devices and building functional UIs
