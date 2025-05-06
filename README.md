@@ -67,7 +67,6 @@ Always excited to learn, build, and collaborate on meaningful tech projects!<br>
 <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle" />
 
 </div>
-###
 
 ### 🔥 GitHub Stats
 
